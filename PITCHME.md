@@ -126,7 +126,7 @@
 - InnoCafe
 
 ---
-#### Technology Stacks
+### Technology Stacks
 - 言語：PHP
 - フレームワーク：Laravel 7 （一部CodeIgniterあり）
 - フロントエンド：Vue.js
