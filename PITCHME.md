@@ -1,7 +1,9 @@
 ### Innovator Japan Recruitment Information
 
 +++
+## Introduction
 
+---
 ### Mission Statement
 - Mission
   - 人の可能性を最大限に引き出しウェルビーイングな社会を実現する。 |
@@ -12,7 +14,7 @@
 - Value 
   - LOVE, CHAOS, GROOVE, ENJOY |
 
-+++
+---
 ### 5拠点で活動
 - 東京オフィス（表参道）
 - 福岡オフィス
@@ -20,7 +22,7 @@
 - 湘南オフィス
 - デンマークオフィス
 
-+++
+---
 ### 事業内容
 - Webメディア領域に強みを持つ日本発のビジネスデザインカンパニー
 
@@ -40,20 +42,27 @@
        - 自社サービス開発
 
 +++
+## Evolution of Our Business Strategy
+（沿革）
 
-### Evolution of Our Business Strategy （沿革）
+---
 #### Phase 1 : Digitization（デジタル化）
 - 2010年7月 日本マーケティングとしてスタート
 - 紙メディアのデジタル化（iPad営業システム、アドタイ、宣伝会議オンライン）
 - tenpuリリース
 
+---
 #### Phase 2 : Operation Optimization（オペレーション最適化）
 - 2016年 &donutsスタート
 - 2017年 デンマークオフィス開設
 
+---
 #### Phase 3 : Digital Transformation（ビジネス全体の進化を支援）
 - データ活用支援
 - OMS　など
+
++++
+## Business Overview
 
 ---
 ### デジタルトランスフォーメーション支援
@@ -108,14 +117,16 @@
  - 戦略を具現化するプロフェッショナルチーム
    - エンジニア、デザイナー
 
----
++++
 ## 採用情報
+
+---
 ### Office  Atmosphere
 - オフィス写真
 - InnoCafe
 
 ---
-### Technology Stacks
+#### Technology Stacks
 - 言語：PHP
 - フレームワーク：Laravel 7 （一部CodeIgniterあり）
 - フロントエンド：Vue.js
