@@ -1,17 +1,18 @@
-### Innovator Japan Recruitment Information
+### Innovator Japan 
+### Recruitment Information
 
 +++
 ## Introduction
 
 ---
 ### Mission Statement
-- Mission
+- Mission |
   - 人の可能性を最大限に引き出しウェルビーイングな社会を実現する。 |
-- Vision
+- Vision |
   - 世界中の才能が協奏する、日本発のビジネスデザインカンパニー。 |
-- Way
+- Way |
   - 自然体であれ |
-- Value 
+- Value | 
   - LOVE, CHAOS, GROOVE, ENJOY |
 
 ---
@@ -37,9 +38,9 @@
 - Webメディア領域に強みを持つ日本発のビジネスデザインカンパニー
 
 #### 事業領域2： 日本発のグローバル事業開発
-   - R&D本部
-       - アジア開拓
-       - 自社サービス開発
+- R&D本部
+  - アジア開拓
+  - 自社サービス開発
 
 +++
 ## Evolution of Our Business Strategy
