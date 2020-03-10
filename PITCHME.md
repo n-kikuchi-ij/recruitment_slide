@@ -16,7 +16,7 @@
   - LOVE, CHAOS, GROOVE, ENJOY |
 
 ---
-### 5拠点で活動
+### 5拠点で事業展開
 - 東京オフィス（表参道）
 - 福岡オフィス
 - 柏の葉オフィス
@@ -47,18 +47,21 @@
 （沿革）
 
 ---
-#### Phase 1 : Digitization（デジタル化）
+#### Phase 1 : Digitization
+#### デジタル化
 - 2010年7月 日本マーケティングとしてスタート
 - 紙メディアのデジタル化（iPad営業システム、アドタイ、宣伝会議オンライン）
 - tenpuリリース
 
 ---
-#### Phase 2 : Operation Optimization（オペレーション最適化）
+#### Phase 2 : Operation Optimization
+#### オペレーション最適化
 - 2016年 &donutsスタート
 - 2017年 デンマークオフィス開設
 
 ---
-#### Phase 3 : Digital Transformation（ビジネス全体の進化を支援）
+#### Phase 3 : Digital Transformation
+#### ビジネスモデルのデジタル変革
 - データ活用支援
 - OMS　など
 
