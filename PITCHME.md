@@ -18,11 +18,11 @@
 ---
 ### 5拠点で事業展開
 <ul class ="location">
-  <li>東京オフィス（表参道）</li>
-  <li>福岡オフィス</li>
-  <li>柏の葉オフィス</li>
-  <li>湘南オフィス</li>
-  <li>デンマークオフィス</li>
+  <li><img src ="img/offices/tokyo.jpg" alt="東京オフィス"></li>
+  <li><img src ="img/offices/fukuoka.jpg" alt="福岡オフィス"></li>
+  <li>柏</li>
+  <li>湘</li>
+  <li><img src ="img/offices/denmark.jpg" alt="デンマークオフィス"></li>
 </ul>
 
 ---
