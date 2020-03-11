@@ -21,7 +21,7 @@
 - 福岡オフィス
 - 柏の葉オフィス
 - 湘南オフィス
-- ![denmark](img/offices/denmark.jpg)
+![denmark](img/offices/denmark.jpg)
 
 ---
 ### 事業内容
