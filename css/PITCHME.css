@@ -1,10 +1,10 @@
 img {
-  height: 200px;
+  height: 15%;
   width: 150px;
   object-fit: cover;
 }
 
 .location li {
   list-style: none;
-  display: inline-block;
+  display: inline;
 }
